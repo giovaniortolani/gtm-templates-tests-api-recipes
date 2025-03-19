@@ -1,5 +1,5 @@
 # Google Tag Manager Tests API Recipes for Custom Templates 
-This repository contains some recipes for testing Google Tag Manager custom templates (web and server).
+This repository contains some recipes for testing Google Tag Manager custom templates (web and server) done by me.
 
 ## Table of Contents
 * [Recipes](#recipes)
@@ -15,7 +15,7 @@ This repository contains some recipes for testing Google Tag Manager custom temp
 
 TBD.
 
-## Entities with tests written
+## Entities with tests written by me
 
 ### Tags (web)
 - [Data tag](https://github.com/stape-io/data-tag)
