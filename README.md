@@ -19,6 +19,7 @@ TBD.
 
 ### Tags (web)
 - [Data tag](https://github.com/stape-io/data-tag)
+- [Google Customer Reviews tag](https://github.com/stape-io/google-customer-reviews-tag)
 
 ### Tags (server)
 - [Awin tag](https://github.com/stape-io/awin-tag)
@@ -28,6 +29,9 @@ TBD.
 - [Snapchat tag](https://github.com/stape-io/snapchat-tag)
 - [Impact tag](https://github.com/stape-io/impact-tag)
 - [LinkedIn tag](https://github.com/stape-io/linkedin-tag)
+- [Logger tag](https://github.com/stape-io/logger-tag)
+- [Brevo tag](https://github.com/stape-io/brevo-tag)
+- [Event Enricher tag](https://github.com/stape-io/event-enricher-tag)
 
 ### Variables (web)
 - [Phone Number Formatter variable](https://github.com/stape-io/phone-number-formatter-web-variable)
