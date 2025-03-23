@@ -3,7 +3,7 @@ This repository contains some recipes for testing Google Tag Manager custom temp
 
 ## Table of Contents
 * [Recipes](#recipes)
-* [Entities with tests written](#entities-with-tests-written)
+* [Entities with tests written by me](#entities-with-tests-written-by-me)
   + [Tags (web)](#tags-web)
   + [Tags (server)](#tags-server)
   + [Variables (web)](#variables-web)
