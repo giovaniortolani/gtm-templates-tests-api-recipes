@@ -33,6 +33,7 @@ TBD.
 - [Brevo tag](https://github.com/stape-io/brevo-tag)
 - [Event Enricher tag](https://github.com/stape-io/event-enricher-tag)
 - [Hubspot tag](https://github.com/stape-io/hubspot-tag)
+- [AdRoll tag](https://github.com/stape-io/adroll-tag)
 
 ### Variables (web)
 - [Phone Number Formatter variable](https://github.com/stape-io/phone-number-formatter-web-variable)
