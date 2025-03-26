@@ -43,6 +43,7 @@ TBD.
 - [Query Replacer variable](https://github.com/stape-io/query-replacer-variable)
 - [TikTok _ttp Generator variable](https://github.com/giovaniortolani/tiktok-ttp-generator)
 - [Convert to String variable](https://github.com/giovaniortolani/convert-to-string-sgtm)
+- [URL Builder variable](https://github.com/stape-io/url-builder-variable)
 
 ## Useful resources
 
