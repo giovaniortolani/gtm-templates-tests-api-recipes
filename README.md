@@ -34,6 +34,12 @@ TBD.
 - [Event Enricher tag](https://github.com/stape-io/event-enricher-tag)
 - [Hubspot tag](https://github.com/stape-io/hubspot-tag)
 - [AdRoll tag](https://github.com/stape-io/adroll-tag)
+- [Telegram tag](https://github.com/stape-io/telegram-notification-tag)
+- [TikTok tag](https://github.com/stape-io/tiktok-tag)
+- [Facebook tag](https://github.com/stape-io/facebook-tag)
+- [Snapchat tag](https://github.com/stape-io/snapchat-tag)
+- [Google Ads Conversion Adjustments tag](https://github.com/stape-io/gads-conversion-adjustments-tag)
+- [Google Ads Offline Conversion tag](https://github.com/stape-io/gads-offline-conversion-tag)
 
 ### Variables (web)
 - [Phone Number Formatter variable](https://github.com/stape-io/phone-number-formatter-web-variable)
@@ -44,6 +50,7 @@ TBD.
 - [TikTok _ttp Generator variable](https://github.com/giovaniortolani/tiktok-ttp-generator)
 - [Convert to String variable](https://github.com/giovaniortolani/convert-to-string-sgtm)
 - [URL Builder variable](https://github.com/stape-io/url-builder-variable)
+- [Phone Number Formatter variable](https://github.com/stape-io/phone-number-formatter-variable)
 
 ## Useful resources
 
