@@ -51,6 +51,7 @@ TBD.
 - [Convert to String variable](https://github.com/giovaniortolani/convert-to-string-sgtm)
 - [URL Builder variable](https://github.com/stape-io/url-builder-variable)
 - [Phone Number Formatter variable](https://github.com/stape-io/phone-number-formatter-variable)
+- [MD5 Hash variable](https://github.com/stape-io/md5-hash-variable)
 
 ## Useful resources
 
