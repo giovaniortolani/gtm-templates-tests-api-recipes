@@ -70,6 +70,7 @@ TBD.
   - [URL Builder variable](https://github.com/stape-io/url-builder-variable)
   - [Phone Number Formatter variable](https://github.com/stape-io/phone-number-formatter-variable)
   - [MD5 Hash variable](https://github.com/stape-io/md5-hash-variable)
+  - [User Data Extractor variable](https://github.com/stape-io/user-data-extractor-variable)
 
 </details>
 
