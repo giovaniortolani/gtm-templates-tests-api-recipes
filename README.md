@@ -10,7 +10,6 @@ This repository contains some recipes for testing Google Tag Manager custom temp
   + [Variables (server)](#variables-server)
 * [Useful resources](#useful-resources)
  
-
 ## Recipes
 
 TBD.
@@ -18,40 +17,61 @@ TBD.
 ## Entities with tests written by me
 
 ### Tags (web)
-- [Data tag](https://github.com/stape-io/data-tag)
-- [Google Customer Reviews tag](https://github.com/stape-io/google-customer-reviews-tag)
+<details>
+  <summary>List</summary>
+  
+  - [Data tag](https://github.com/stape-io/data-tag)
+  - [Google Customer Reviews tag](https://github.com/stape-io/google-customer-reviews-tag)
+
+</details>
 
 ### Tags (server)
-- [Awin tag](https://github.com/stape-io/awin-tag)
-- [Adtraction tag](https://github.com/stape-io/adtraction-tag)
-- [Sendlane tag](https://github.com/stape-io/sendlane-tag)
-- [Klaviyo tag](https://github.com/stape-io/klaviyo-tag)
-- [Snapchat tag](https://github.com/stape-io/snapchat-tag)
-- [Impact tag](https://github.com/stape-io/impact-tag)
-- [LinkedIn tag](https://github.com/stape-io/linkedin-tag)
-- [Logger tag](https://github.com/stape-io/logger-tag)
-- [Brevo tag](https://github.com/stape-io/brevo-tag)
-- [Event Enricher tag](https://github.com/stape-io/event-enricher-tag)
-- [Hubspot tag](https://github.com/stape-io/hubspot-tag)
-- [AdRoll tag](https://github.com/stape-io/adroll-tag)
-- [Telegram tag](https://github.com/stape-io/telegram-notification-tag)
-- [TikTok tag](https://github.com/stape-io/tiktok-tag)
-- [Facebook tag](https://github.com/stape-io/facebook-tag)
-- [Snapchat tag](https://github.com/stape-io/snapchat-tag)
-- [Google Ads Conversion Adjustments tag](https://github.com/stape-io/gads-conversion-adjustments-tag)
-- [Google Ads Offline Conversion tag](https://github.com/stape-io/gads-offline-conversion-tag)
+<details>
+  <summary>List</summary>
+  
+  - [Awin tag](https://github.com/stape-io/awin-tag)
+  - [Adtraction tag](https://github.com/stape-io/adtraction-tag)
+  - [Sendlane tag](https://github.com/stape-io/sendlane-tag)
+  - [Klaviyo tag](https://github.com/stape-io/klaviyo-tag)
+  - [Snapchat tag](https://github.com/stape-io/snapchat-tag)
+  - [Impact tag](https://github.com/stape-io/impact-tag)
+  - [LinkedIn tag](https://github.com/stape-io/linkedin-tag)
+  - [Logger tag](https://github.com/stape-io/logger-tag)
+  - [Brevo tag](https://github.com/stape-io/brevo-tag)
+  - [Event Enricher tag](https://github.com/stape-io/event-enricher-tag)
+  - [Hubspot tag](https://github.com/stape-io/hubspot-tag)
+  - [AdRoll tag](https://github.com/stape-io/adroll-tag)
+  - [Telegram tag](https://github.com/stape-io/telegram-notification-tag)
+  - [TikTok tag](https://github.com/stape-io/tiktok-tag)
+  - [Facebook tag](https://github.com/stape-io/facebook-tag)
+  - [Snapchat tag](https://github.com/stape-io/snapchat-tag)
+  - [Google Ads Conversion Adjustments tag](https://github.com/stape-io/gads-conversion-adjustments-tag)
+  - [Google Ads Offline Conversion tag](https://github.com/stape-io/gads-offline-conversion-tag)
+  - [Braze tag](https://github.com/stape-io/braze-tag)
+
+</details>
 
 ### Variables (web)
-- [Phone Number Formatter variable](https://github.com/stape-io/phone-number-formatter-web-variable)
+<details>
+  <summary>List</summary>
+  
+  - [Phone Number Formatter variable](https://github.com/stape-io/phone-number-formatter-web-variable)
+
+</details>
 
 ### Variables (server)
-- [Predefined Constant Value Selector variable](https://github.com/giovaniortolani/predefined-constant-value-selector-variable-sgtm)
-- [Query Replacer variable](https://github.com/stape-io/query-replacer-variable)
-- [TikTok _ttp Generator variable](https://github.com/giovaniortolani/tiktok-ttp-generator)
-- [Convert to String variable](https://github.com/giovaniortolani/convert-to-string-sgtm)
-- [URL Builder variable](https://github.com/stape-io/url-builder-variable)
-- [Phone Number Formatter variable](https://github.com/stape-io/phone-number-formatter-variable)
-- [MD5 Hash variable](https://github.com/stape-io/md5-hash-variable)
+<details>
+  <summary>List</summary>
+  
+  - [Predefined Constant Value Selector variable](https://github.com/giovaniortolani/predefined-constant-value-selector-variable-sgtm)
+  - [Query Replacer variable](https://github.com/stape-io/query-replacer-variable)
+  - [TikTok _ttp Generator variable](https://github.com/giovaniortolani/tiktok-ttp-generator)
+  - [Convert to String variable](https://github.com/giovaniortolani/convert-to-string-sgtm)
+  - [URL Builder variable](https://github.com/stape-io/url-builder-variable)
+  - [Phone Number Formatter variable](https://github.com/stape-io/phone-number-formatter-variable)
+  - [MD5 Hash variable](https://github.com/stape-io/md5-hash-variable)
+
+</details>
 
 ## Useful resources
 
