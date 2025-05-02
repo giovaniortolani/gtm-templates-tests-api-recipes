@@ -16,6 +16,14 @@ TBD.
 
 ## Entities with tests written by me
 
+### Clients (server)
+<details>
+  <summary>List</summary>
+  
+  - [Piano Analytics Client](https://github.com/stape-io/piano-client)
+
+</details>
+
 ### Tags (web)
 <details>
   <summary>List</summary>
@@ -48,6 +56,7 @@ TBD.
   - [Google Ads Conversion Adjustments tag](https://github.com/stape-io/gads-conversion-adjustments-tag)
   - [Google Ads Offline Conversion tag](https://github.com/stape-io/gads-offline-conversion-tag)
   - [Braze tag](https://github.com/stape-io/braze-tag)
+  - [Piano Analytics tag](https://github.com/stape-io/piano-tag)
 
 </details>
 
