@@ -58,6 +58,8 @@ TBD.
   - [Google Ads Offline Conversion tag](https://github.com/stape-io/gads-offline-conversion-tag)
   - [Braze tag](https://github.com/stape-io/braze-tag)
   - [Piano Analytics tag](https://github.com/stape-io/piano-tag)
+  - [Reddit tag](https://github.com/stape-io/reddit-tag)
+
 
 </details>
 
