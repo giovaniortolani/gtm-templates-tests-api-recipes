@@ -59,6 +59,10 @@ TBD.
   - [Braze tag](https://github.com/stape-io/braze-tag)
   - [Piano Analytics tag](https://github.com/stape-io/piano-tag)
   - [Reddit tag](https://github.com/stape-io/reddit-tag)
+  - [Customer.io tag](https://github.com/stape-io/customer-tag)
+  - [Google Ads Conversion Improver tag](https://github.com/stape-io/gads-conversion-improver-tag)
+  - [GoHighLevel tag](https://github.com/stape-io/gohighlevel-tag/blob/main/template.tpl)
+  - [Admitad tag](https://github.com/stape-io/admitad-tag)
 
 
 </details>
